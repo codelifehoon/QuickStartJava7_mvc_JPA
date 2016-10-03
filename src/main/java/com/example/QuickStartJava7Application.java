@@ -12,7 +12,8 @@ import org.springframework.context.annotation.Configuration;
 @SpringBootApplication
 public class QuickStartJava7Application {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {  
+		// annc
 		SpringApplication.run(QuickStartJava7Application.class, args);
 	}
 }
